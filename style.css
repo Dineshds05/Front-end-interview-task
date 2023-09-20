@@ -1,3 +1,4 @@
+
 html {
     --md-background-color: rgb(23, 51, 80);
     --md-loading-message-color: #6e6e6e;
@@ -13,7 +14,7 @@ html {
     align-items: center;
     background-color: white;
     height: 3rem;
-    width: 80.5%;
+    width: 95%;
     font-weight: bold;
     font-size: larger;
     
