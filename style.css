@@ -122,7 +122,7 @@ p{
         height: 2rem;
         width: 78%;
         font-weight: bold;
-        font-size: 6px;
+        font-size: 5px;
         
         
     }
@@ -163,9 +163,8 @@ p{
     .Bgcolor{
         position: absolute;
         height: 0.5rem;
-        width: 80%;
+        width: 96%;
         bottom: 400px;
-        right: 4px;
         padding-top: 1rem;
         background-image: linear-gradient(to right, rgb(236, 87, 112),yellow)  
     }
@@ -195,7 +194,7 @@ p{
     }
     button{
         position: absolute;
-        top: 62%;
+        top: 64%;
         left: 45%;
         background-color:rgba(243, 107, 130, 0.548) ;
         border-radius: 10px;
